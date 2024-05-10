@@ -1,6 +1,7 @@
 ## 🚀📊 Unlocking Insights into Nigeria's Tech Job Market: A Data-driven Journey
 
 Project Overview:
+
 In collaboration with the training arm of VIVIDX, our diverse team embarked on an ambitious endeavor to delve deep into Nigeria's tech job market. Armed with data extraction, transformation, and loading techniques, we sifted through a vast sea of information to uncover the prevailing skills and requirements sought after by major tech companies in Nigeria.
 
 ## Key Objectives:
